@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorSecondary">@color/red</item>
+        <item name="buttonStyle">@style/RollButton</item>
+
+    </style>
+    <style name="RollButton">
+        <item name="android:background">@drawable/roll_button</item>
+    </style>
+</resources>
